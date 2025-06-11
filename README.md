@@ -1,4 +1,4 @@
-📦 Company Sales Analysis
+# 📦 Company Sales Analysis
 
 A small but powerful Power BI dashboard with key insights.
 
