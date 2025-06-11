@@ -49,7 +49,7 @@ Additional visual-level calculations include sales share by category, manufactur
   * **Bar & Column Charts** (e.g., Sales by Category, Manufacturer, Promotion)
   * **Map Visual** (Geographic Sales Distribution)
   * **Cards** (KPI display)
-  * **Donut Chart / Treemap** (Product segmentation)
+  * **Pie Chart** (Product segmentation)
   * **Line Chart** (Trend analysis)
 
 ---
