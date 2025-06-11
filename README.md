@@ -1,10 +1,5 @@
 # COMPANY-SALES-ANALYSIS
 A small but powerful Power BI dashboard with key insights.
-Absolutely! Here's a complete and professional write-up for your **Company Sales Analysis Dashboard** project, modeled closely after the structure you shared for the Electric Vehicle Analysis project:
-
----
-
-## 📦 Company Sales Analysis
 
 This project presents an interactive and data-rich **Sales Performance Dashboard** built in **Power BI**. It provides comprehensive insights into company-wide sales operations, allowing users to explore revenue trends, profitability, and product movement across various markets and segments.
 
@@ -69,10 +64,9 @@ Additional visual-level calculations include sales share by category, manufactur
 
 ### 🚀 How to Use
 
-1. Download or clone the repository
+1. Download the repository
 2. Open the `.pbix` file using Power BI Desktop
-3. Optionally explore or replace the Excel dataset to customize analysis
-4. Use the slicers and charts to explore different sales dimensions and gain insights
+3. Use the slicers and charts to explore different sales dimensions and gain insights
 
 
 
