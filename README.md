@@ -1,5 +1,4 @@
-# FUTURE_DS_01
-###COMPANY SALES ANALYSIS
+📦 Company Sales Analysis
 
 A small but powerful Power BI dashboard with key insights.
 
