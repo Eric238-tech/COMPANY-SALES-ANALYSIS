@@ -15,6 +15,7 @@ The dashboard is designed to help users:
 * Explore sales performance by **Product Category**, **Manufacturer**, and **Sales Channel**
 * Understand **regional demand** through Order Quantity by Region
 * Visualize **country-level performance** on an interactive sales map
+* I added buttons to filter and view sales data by different years, allowing users to easily analyze performance over time.
 * Use **dynamic slicers** to filter data by:
 
   * **Month**
