@@ -1,5 +1,6 @@
 # FUTURE_DS_01
-##COMPANY SALES ANALYSIS
+###COMPANY SALES ANALYSIS
+
 A small but powerful Power BI dashboard with key insights.
 
 This project presents an interactive and data-rich **Sales Performance Dashboard** built in **Power BI**. It provides comprehensive insights into company-wide sales operations, allowing users to explore revenue trends, profitability, and product movement across various markets and segments.
